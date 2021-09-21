@@ -1,0 +1,16 @@
+public class JavaProb3
+{
+    public static void main(String args[])
+    {
+        int a = x;
+  
+        // for loop begins
+        for (int x = 1; x <= a; x++) 
+        {
+            System.out.println("Enter the value of a:");
+            a=x;
+            a=a+2;
+        }
+        System.out.println("a:x " + 2);
+    }
+}
