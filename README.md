@@ -7,6 +7,12 @@ java language
 
 
 
+
+
+
+
+
+
 import java.util.Scanner;
 
 Public class JavaProb1
