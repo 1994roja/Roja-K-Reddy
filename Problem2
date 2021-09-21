@@ -1,0 +1,15 @@
+  public class JavaProb2
+  {
+    public static void main(String args[])
+    {
+        int x= a;
+  
+        /* for loop begins*/
+        for (int x = 1; x <= 7; x++) 
+        {
+            System.out.println("Enter the value of a: ");
+            a=a+2;
+        }
+        System.out.println("a: x" + 2);
+    }
+}
